@@ -24,6 +24,7 @@
   "name":"flesh maze 2",
   "resources":[
     {"id":{"name":"obj_Block_flesh","path":"objects/obj_Block_flesh/obj_Block_flesh.yy",},},
+    {"id":{"name":"obj_gloob","path":"objects/obj_gloob/obj_gloob.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_block_flesh","path":"sprites/spr_block_flesh/spr_block_flesh.yy",},},
