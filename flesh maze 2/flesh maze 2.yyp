@@ -28,6 +28,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_block_flesh","path":"sprites/spr_block_flesh/spr_block_flesh.yy",},},
     {"id":{"name":"spr_edward_idle","path":"sprites/spr_edward_idle/spr_edward_idle.yy",},},
+    {"id":{"name":"spr_gloob","path":"sprites/spr_gloob/spr_gloob.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

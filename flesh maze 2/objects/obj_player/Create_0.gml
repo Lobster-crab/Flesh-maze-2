@@ -1,1 +1,1 @@
-speed = 0
+bfcollision = 0
