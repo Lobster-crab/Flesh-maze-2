@@ -36,6 +36,9 @@
     "name":"spr_edward_idle",
     "path":"sprites/spr_edward_idle/spr_edward_idle.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_edward_idle",
+    "path":"sprites/spr_edward_idle/spr_edward_idle.yy",
+  },
   "visible":true,
 }
