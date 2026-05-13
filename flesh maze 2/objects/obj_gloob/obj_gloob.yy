@@ -31,9 +31,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_gloob",
-    "path":"sprites/spr_gloob/spr_gloob.yy",
+    "name":"spr_gloob_left",
+    "path":"sprites/spr_gloob_left/spr_gloob_left.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_gloob_left",
+    "path":"sprites/spr_gloob_left/spr_gloob_left.yy",
+  },
   "visible":true,
 }

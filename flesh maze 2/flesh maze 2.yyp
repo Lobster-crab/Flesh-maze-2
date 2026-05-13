@@ -30,6 +30,7 @@
     {"id":{"name":"spr_","path":"sprites/spr_/spr_.yy",},},
     {"id":{"name":"spr_block_flesh","path":"sprites/spr_block_flesh/spr_block_flesh.yy",},},
     {"id":{"name":"spr_edward_idle","path":"sprites/spr_edward_idle/spr_edward_idle.yy",},},
+    {"id":{"name":"spr_gloob_left","path":"sprites/spr_gloob_left/spr_gloob_left.yy",},},
     {"id":{"name":"spr_gloob","path":"sprites/spr_gloob/spr_gloob.yy",},},
     {"id":{"name":"spr_walk_left","path":"sprites/spr_walk_left/spr_walk_left.yy",},},
     {"id":{"name":"spr_walk_right","path":"sprites/spr_walk_right/spr_walk_right.yy",},},
