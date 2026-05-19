@@ -24,6 +24,7 @@
   },
   "name":"flesh maze 2",
   "resources":[
+    {"id":{"name":"font_1","path":"fonts/font_1/font_1.yy",},},
     {"id":{"name":"obj_acid_pool","path":"objects/obj_acid_pool/obj_acid_pool.yy",},},
     {"id":{"name":"obj_Block_flesh","path":"objects/obj_Block_flesh/obj_Block_flesh.yy",},},
     {"id":{"name":"obj_breakable_rock","path":"objects/obj_breakable_rock/obj_breakable_rock.yy",},},
