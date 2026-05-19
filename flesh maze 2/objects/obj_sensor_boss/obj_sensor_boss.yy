@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gate",
+  "%Name":"obj_sensor_boss",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_gate",
+  "name":"obj_sensor_boss",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -30,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_gate_opened",
-    "path":"sprites/spr_gate_opened/spr_gate_opened.yy",
+    "name":"spr_boss_sensor",
+    "path":"sprites/spr_boss_sensor/spr_boss_sensor.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
