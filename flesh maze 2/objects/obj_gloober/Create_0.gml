@@ -1,2 +1,2 @@
-speed = -1
-movement_right = 1
+vspeed = -1
+movement_up = 1

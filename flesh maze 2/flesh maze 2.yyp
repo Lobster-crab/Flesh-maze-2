@@ -34,6 +34,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_projectile","path":"objects/obj_projectile/obj_projectile.yy",},},
     {"id":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},},
+    {"id":{"name":"obj_wall_fake","path":"objects/obj_wall_fake/obj_wall_fake.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_acid_pool","path":"sprites/spr_acid_pool/spr_acid_pool.yy",},},
     {"id":{"name":"spr_block_flesh","path":"sprites/spr_block_flesh/spr_block_flesh.yy",},},
