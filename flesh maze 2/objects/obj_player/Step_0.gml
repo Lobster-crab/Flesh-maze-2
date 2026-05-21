@@ -34,3 +34,10 @@ if horizontal_move_right = 0 and vertical_move_up = 0
 {
 	sprite_index = spr_edward_idle
 }
+
+if (global.playerhp < 1)
+{
+	global.playerhp = 3
+	room_restart()
+	
+}
