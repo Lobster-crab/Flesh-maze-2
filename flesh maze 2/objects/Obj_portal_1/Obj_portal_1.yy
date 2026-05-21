@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_glank",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_portal_1",
+  "eventList":[],
   "managed":true,
-  "name":"obj_glank",
+  "name":"Obj_portal_1",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_glank",
-    "path":"sprites/spr_glank/spr_glank.yy",
+    "name":"portal_side_right",
+    "path":"sprites/portal_side_right/portal_side_right.yy",
   },
   "spriteMaskId":null,
   "visible":true,
