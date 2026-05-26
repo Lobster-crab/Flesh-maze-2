@@ -41,3 +41,13 @@ if (global.playerhp < 1)
 	room_restart()
 	
 }
+
+
+if attack = 1
+{
+	if keyboard_check(vk_right) 
+{
+	instance_create_layer(x, y, "instances", obj_attack_right)
+}
+}
+
