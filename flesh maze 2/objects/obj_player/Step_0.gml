@@ -1,9 +1,9 @@
-if keyboard_check(vk_up) 
+if keyboard_check(ord("W")) 
 {
 	y -= 3
 	vertical_move_up = 1
 }
-else if keyboard_check(vk_down) 
+else if keyboard_check(ord("S")) 
 {
 	y += 3
 	vertical_move_up = 2
@@ -13,13 +13,13 @@ else
 {
 	vertical_move_up = 0
 }
-if keyboard_check(vk_right) 
+if keyboard_check(ord("D")) 
 {
 	x += 3
 	horizontal_move_right = 1
 	sprite_index = spr_walk_right
 }
-else if keyboard_check(vk_left) 
+else if keyboard_check(ord("A")) 
 {
 	x -= 3
 	horizontal_move_right = 2

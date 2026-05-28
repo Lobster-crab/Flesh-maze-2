@@ -79,6 +79,7 @@
     {"id":{"name":"spr_trap","path":"sprites/spr_trap/spr_trap.yy",},},
     {"id":{"name":"spr_walk_left","path":"sprites/spr_walk_left/spr_walk_left.yy",},},
     {"id":{"name":"spr_walk_right","path":"sprites/spr_walk_right/spr_walk_right.yy",},},
+    {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

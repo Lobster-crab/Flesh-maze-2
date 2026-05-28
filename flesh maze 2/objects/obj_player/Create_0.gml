@@ -5,4 +5,4 @@ global.playerhp = 3
 attack = 0
 
 //remove later
-
+attack = 1
