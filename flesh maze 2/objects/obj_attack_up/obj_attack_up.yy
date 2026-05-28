@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_acid_pool",
+  "%Name":"obj_attack_up",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_acid_pool",
+  "name":"obj_attack_up",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/objects.yy",
+    "name":"attack projectiles",
+    "path":"folders/objects/attack projectiles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_acid_pool",
-    "path":"sprites/spr_acid_pool/spr_acid_pool.yy",
+    "name":"spr_projectile_up",
+    "path":"sprites/spr_projectile_up/spr_projectile_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,

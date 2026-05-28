@@ -61,5 +61,21 @@ if keyboard_check(vk_left)
 	alarm[0] = 60;
 	}
 }
+if keyboard_check(vk_up)
+{
+		if alarm[0] < 0
+	{
+	instance_create_layer(x, y, "instances", obj_attack_up);
+	alarm[0] = 60;
+	}
+}
+if keyboard_check(vk_down)
+{
+		if alarm[0] < 0
+	{
+	instance_create_layer(x, y, "instances", obj_attack_down);
+	alarm[0] = 60;
+	}
+}
 }
 
