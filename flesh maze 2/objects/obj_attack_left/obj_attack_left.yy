@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_attack_right",
+  "%Name":"obj_attack_left",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_attack_right",
+  "name":"obj_attack_left",
   "overriddenProperties":[],
   "parent":{
     "name":"attack projectiles",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_projectile_right",
-    "path":"sprites/spr_projectile_right/spr_projectile_right.yy",
+    "name":"spr_projectile",
+    "path":"sprites/spr_projectile/spr_projectile.yy",
   },
   "spriteMaskId":null,
   "visible":true,

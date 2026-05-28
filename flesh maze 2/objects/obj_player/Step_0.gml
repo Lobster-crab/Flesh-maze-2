@@ -47,7 +47,19 @@ if attack = 1
 {
 	if keyboard_check(vk_right) 
 {
-	instance_create_layer(x, y, "instances", obj_attack_right)
+	if alarm[0] < 0
+	{
+	instance_create_layer(x, y, "instances", obj_attack_right);
+	alarm[0] = 60;
+	}
+}
+if keyboard_check(vk_left)
+{
+	if alarm[0] < 0
+	{
+	instance_create_layer(x, y, "instances", obj_attack_left);
+	alarm[0] = 60;
+	}
 }
 }
 

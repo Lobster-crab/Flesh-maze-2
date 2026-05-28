@@ -11,6 +11,7 @@
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"attack projectiles","folderPath":"folders/objects/attack projectiles.yy","name":"attack projectiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"gate","folderPath":"folders/sprites/gate.yy","name":"gate","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -26,6 +27,7 @@
   "resources":[
     {"id":{"name":"font_1","path":"fonts/font_1/font_1.yy",},},
     {"id":{"name":"obj_acid_pool","path":"objects/obj_acid_pool/obj_acid_pool.yy",},},
+    {"id":{"name":"obj_attack_left","path":"objects/obj_attack_left/obj_attack_left.yy",},},
     {"id":{"name":"obj_attack_right","path":"objects/obj_attack_right/obj_attack_right.yy",},},
     {"id":{"name":"obj_Block_flesh","path":"objects/obj_Block_flesh/obj_Block_flesh.yy",},},
     {"id":{"name":"obj_breakable_rock","path":"objects/obj_breakable_rock/obj_breakable_rock.yy",},},
