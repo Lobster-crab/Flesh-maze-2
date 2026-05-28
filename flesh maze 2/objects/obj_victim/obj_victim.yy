@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sensor_boss",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_victim",
+  "eventList":[],
   "managed":true,
-  "name":"obj_sensor_boss",
+  "name":"obj_victim",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -31,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_boss_sensor",
-    "path":"sprites/spr_boss_sensor/spr_boss_sensor.yy",
+    "name":"spr_victim",
+    "path":"sprites/spr_victim/spr_victim.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

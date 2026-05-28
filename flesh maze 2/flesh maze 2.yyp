@@ -48,9 +48,11 @@
     {"id":{"name":"obj_projectile","path":"objects/obj_projectile/obj_projectile.yy",},},
     {"id":{"name":"obj_sensor_boss","path":"objects/obj_sensor_boss/obj_sensor_boss.yy",},},
     {"id":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},},
+    {"id":{"name":"obj_victim","path":"objects/obj_victim/obj_victim.yy",},},
     {"id":{"name":"obj_wall_fake","path":"objects/obj_wall_fake/obj_wall_fake.yy",},},
     {"id":{"name":"particlesy1","path":"particles/particlesy1/particlesy1.yy",},},
     {"id":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
+    {"id":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"portal_side_right","path":"sprites/portal_side_right/portal_side_right.yy",},},
     {"id":{"name":"spr_acid_pool","path":"sprites/spr_acid_pool/spr_acid_pool.yy",},},
@@ -77,6 +79,7 @@
     {"id":{"name":"spr_projectile","path":"sprites/spr_projectile/spr_projectile.yy",},},
     {"id":{"name":"spr_trap_triggered","path":"sprites/spr_trap_triggered/spr_trap_triggered.yy",},},
     {"id":{"name":"spr_trap","path":"sprites/spr_trap/spr_trap.yy",},},
+    {"id":{"name":"spr_victim","path":"sprites/spr_victim/spr_victim.yy",},},
     {"id":{"name":"spr_walk_left","path":"sprites/spr_walk_left/spr_walk_left.yy",},},
     {"id":{"name":"spr_walk_right","path":"sprites/spr_walk_right/spr_walk_right.yy",},},
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
@@ -86,6 +89,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
+    {"roomId":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
