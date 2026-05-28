@@ -16,4 +16,5 @@ if (global.boss1 = 1)
 if (spawn = 1)
 {
 alarm[1] = 5;
+alarm[3] = 5;
 }
