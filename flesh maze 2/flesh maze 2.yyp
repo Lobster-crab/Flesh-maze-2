@@ -46,6 +46,7 @@
     {"id":{"name":"obj_maggot","path":"objects/obj_maggot/obj_maggot.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Obj_portal_1","path":"objects/Obj_portal_1/Obj_portal_1.yy",},},
+    {"id":{"name":"Obj_portal_gloobiechase_exit","path":"objects/Obj_portal_gloobiechase_exit/Obj_portal_gloobiechase_exit.yy",},},
     {"id":{"name":"obj_powerup","path":"objects/obj_powerup/obj_powerup.yy",},},
     {"id":{"name":"obj_projectile","path":"objects/obj_projectile/obj_projectile.yy",},},
     {"id":{"name":"obj_sensor_boss","path":"objects/obj_sensor_boss/obj_sensor_boss.yy",},},

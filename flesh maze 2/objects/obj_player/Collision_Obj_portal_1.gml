@@ -1,3 +1,3 @@
-room_goto(Rm_2);
-x=100;
-y=100;
+room_goto(Rm_4);
+x=1000;
+y=1000;
