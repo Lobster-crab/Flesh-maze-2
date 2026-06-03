@@ -12,7 +12,7 @@ attack = 0;
 //x = 200;
 //y = 200;
 
-room_goto(Rm_4)
-x = 1000
-y = 1000
+//room_goto(Rm_4)
+//x = 1000
+//y = 1000
 
