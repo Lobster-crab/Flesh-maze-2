@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_trap",
+  "%Name":"obj_trap_triggered",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_trap",
+  "name":"obj_trap_triggered",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_trap_idle",
-    "path":"sprites/spr_trap_idle/spr_trap_idle.yy",
+    "name":"spr_trap_triggered",
+    "path":"sprites/spr_trap_triggered/spr_trap_triggered.yy",
   },
   "spriteMaskId":null,
   "visible":true,
