@@ -9,8 +9,8 @@
   "name":"obj_trap_triggered",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/objects.yy",
+    "name":"traps",
+    "path":"folders/objects/traps.yy",
   },
   "parentObjectId":null,
   "persistent":false,

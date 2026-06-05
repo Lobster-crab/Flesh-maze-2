@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"attack projectiles","folderPath":"folders/objects/attack projectiles.yy","name":"attack projectiles","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"traps","folderPath":"folders/objects/traps.yy","name":"traps","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"attack","folderPath":"folders/sprites/attack.yy","name":"attack","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -52,6 +53,7 @@
     {"id":{"name":"obj_projectile","path":"objects/obj_projectile/obj_projectile.yy",},},
     {"id":{"name":"obj_sensor_boss_2","path":"objects/obj_sensor_boss_2/obj_sensor_boss_2.yy",},},
     {"id":{"name":"obj_sensor_boss","path":"objects/obj_sensor_boss/obj_sensor_boss.yy",},},
+    {"id":{"name":"obj_trap_projectile","path":"objects/obj_trap_projectile/obj_trap_projectile.yy",},},
     {"id":{"name":"obj_trap_triggered","path":"objects/obj_trap_triggered/obj_trap_triggered.yy",},},
     {"id":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},},
     {"id":{"name":"obj_tut_2","path":"objects/obj_tut_2/obj_tut_2.yy",},},
