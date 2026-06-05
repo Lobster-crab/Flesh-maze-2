@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sensor_boss_2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_heal_plant",
+  "eventList":[],
   "managed":true,
-  "name":"obj_sensor_boss_2",
+  "name":"obj_heal_plant",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -30,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_boss_sensor",
-    "path":"sprites/spr_boss_sensor/spr_boss_sensor.yy",
+    "name":"spr_heal_plant",
+    "path":"sprites/spr_heal_plant/spr_heal_plant.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

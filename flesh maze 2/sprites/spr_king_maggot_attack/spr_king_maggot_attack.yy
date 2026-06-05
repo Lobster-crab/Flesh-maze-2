@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"spr_king_maggot_attack",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":761,
   "bbox_left":0,
-  "bbox_right":0,
+  "bbox_right":767,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"32e3289a-9f74-4070-bb36-54ab53827cd5","name":"32e3289a-9f74-4070-bb36-54ab53827cd5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0ca3f2b4-a6c6-46e6-b35e-d50f95625b4f","name":"0ca3f2b4-a6c6-46e6-b35e-d50f95625b4f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":768,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"dd3362d8-4704-462b-89dd-1643e7dddd61","blendMode":0,"displayName":"default","isLocked":false,"name":"dd3362d8-4704-462b-89dd-1643e7dddd61","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"dd9e9d16-5b37-499f-af8b-010fa08800f9","blendMode":0,"displayName":"default","isLocked":false,"name":"dd9e9d16-5b37-499f-af8b-010fa08800f9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_king_maggot_attack",
   "nineSlice":null,
@@ -59,7 +59,7 @@
     },
     "name":"spr_king_maggot_attack",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":12.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"32e3289a-9f74-4070-bb36-54ab53827cd5","path":"sprites/spr_king_maggot_attack/spr_king_maggot_attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c01ad9f7-4304-4afe-b366-5ed93d09d549","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ca3f2b4-a6c6-46e6-b35e-d50f95625b4f","path":"sprites/spr_king_maggot_attack/spr_king_maggot_attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ca1252cf-25b4-41d9-8025-ad4a1a148691","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":768,
 }

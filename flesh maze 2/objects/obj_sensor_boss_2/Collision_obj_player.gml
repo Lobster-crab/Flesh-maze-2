@@ -1,0 +1,1 @@
+global.boss2 = 1
