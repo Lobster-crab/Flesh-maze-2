@@ -1,4 +1,7 @@
-
+if hp = 0
+{
+	instance_destroy()
+}
 if (lunge = 0)
 {
 	
