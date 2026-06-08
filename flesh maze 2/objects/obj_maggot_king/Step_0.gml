@@ -1,3 +1,9 @@
+if (hp = 0)
+{
+	global.boss2 = 2
+	instance_destroy()
+}
+
 if (global.boss2 = 1)
 {
 	if (attacking = 0)
