@@ -1,7 +1,11 @@
 if (hp = 0)
 {
 	global.boss2 = 2
+	room_goto(rm_win)
+	
+	
 	instance_destroy()
+	
 }
 
 if (global.boss2 = 1)

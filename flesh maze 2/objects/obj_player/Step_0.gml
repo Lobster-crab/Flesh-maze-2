@@ -39,7 +39,14 @@ if (global.playerhp < 1)
 {
 	global.playerhp = 3
 	room_restart()
-	
+	x = 300
+	y = 300
+	maggots = 0
+	if room = Rm_4
+	{
+		x = 1000
+		y = 1000
+	}
 }
 
 
@@ -80,4 +87,9 @@ if keyboard_check(vk_down)
 }
 
 
-
+if (global.boss2 = 2)
+{
+	room_goto(rm_win)
+	x = 300
+	y = 300
+}
