@@ -1,3 +1,13 @@
+if (global.boss2 = 2)
+{
+	room_goto(rm_win)
+	x = 300
+	y = 300
+}
+
+
+
+
 if keyboard_check(ord("W")) 
 {
 	y -= 3
@@ -42,6 +52,8 @@ if (global.playerhp < 1)
 	x = 300
 	y = 300
 	maggots = 0
+	global.boss1 = 0
+	global.boss2 = 0
 	if room = Rm_4
 	{
 		x = 1000
@@ -87,9 +99,4 @@ if keyboard_check(vk_down)
 }
 
 
-if (global.boss2 = 2)
-{
-	room_goto(rm_win)
-	x = 300
-	y = 300
-}
+

@@ -17,6 +17,6 @@ attack = 0;
 //x = 1000
 //y = 1000
 
-room_goto(rm_win)
-x = 300
-y = 300
+//room_goto(rm_win)
+//x = 300
+//y = 300
