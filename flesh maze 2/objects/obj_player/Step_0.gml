@@ -1,9 +1,3 @@
-if (global.boss2 = 2)
-{
-	room_goto(rm_win)
-	x = 300
-	y = 300
-}
 
 
 
@@ -51,7 +45,7 @@ if (global.playerhp < 1)
 	room_restart()
 	x = 300
 	y = 300
-	maggots = 0
+	global.maggots = 0
 	global.boss1 = 0
 	global.boss2 = 0
 	if room = Rm_4

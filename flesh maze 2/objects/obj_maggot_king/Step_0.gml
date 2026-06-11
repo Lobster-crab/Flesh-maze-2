@@ -2,7 +2,13 @@ if (hp = 0)
 {
 	global.boss2 = 2
 	
-	
+	if global.maggots = (30)
+	{
+	instance_create_layer(x, y, "instances", obj_portal_win2);
+	instance_destroy()
+	}
+	else
+	instance_create_layer(x, y, "instances", obj_portal_win1);
 	
 	instance_destroy()
 	
